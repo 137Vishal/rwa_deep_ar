@@ -17,3 +17,11 @@
 ## 0.0.5
 
 * Basic documentation
+
+## 0.0.6
+
+* Basic documentation
+
+## 0.0.7
+
+* Basic documentation

@@ -57,8 +57,6 @@ public class CameraDeepArPlugin implements FlutterPlugin ,ActivityAware{
                 .getPlatformViewRegistry()
                 .registerViewFactory(
                         "plugins.flutter.io/deep_ar_camera", factory);
-
-
     }
 
     @Override
