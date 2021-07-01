@@ -25,3 +25,7 @@
 ## 0.0.7
 
 * Basic documentation
+## 0.0.8
+
+* Basic documentation
+** Add git repo

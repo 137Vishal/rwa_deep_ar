@@ -3,7 +3,7 @@
 # Run `pod lib lint camera_deep_ar.podspec' to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'camera_deep_ar'
+  s.name             = 'rwa_deep_ar'
   s.version          = '0.0.1'
   s.summary          = 'A new Flutter plugin.'
   s.description      = <<-DESC
@@ -28,7 +28,7 @@ A new Flutter plugin.
   s.vendored_frameworks = 'DeepAR.framework'
 
 #  s.resource_bundles = {
-#    'Effects' => ['camera_deep_ar/Effects/**/*']
+#    'Effects' => ['rwa_deep_ar/Effects/**/*']
 #  }
 #  s.resource = 'Pod/Resources/**/*'
   s.resources = ['Effects/*']

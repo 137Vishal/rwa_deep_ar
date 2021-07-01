@@ -1,12 +1,12 @@
 name: rwa_deep_ar
 description: camera_deep_ar is not being updated so rwa_deep_ar is born just fixed the auto turn off camera on close
-version: 0.0.7
+version: 0.0.12
 #author:
-homepage: https://realwishall.com/
+homepage: https://github.com/137Vishal/rwa_deep_ar
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
-  flutter: ">=1.20.0 <2.0.0"
+  flutter: ">=1.20.0"
 
 dependencies:
   flutter:
