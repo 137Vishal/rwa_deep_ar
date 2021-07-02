@@ -16,7 +16,6 @@ import java.util.List;
 import ai.deepar.ar.CameraResolutionPreset;
 import ai.deepar.ar.DeepAR;
 import ai.deepar.ar.DeepARImageFormat;
-import
 
 /**
  * Created by luka on 19/04/17.
