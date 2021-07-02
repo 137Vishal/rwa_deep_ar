@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="180a733a-0230-40fe-8aca-b836859f8428" name="Default Changelist" comment="minor bugs" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1uIceUi9jN3FUquf1srr1CFMTLy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/android" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\visha\AndroidStudioProjects\Hipster project\library\rwa_deep_ar\android" />
+      <recent name="D:\Users\visha\AndroidStudioProjects\Hipster project\library\rwa_deep_ar\android\src\main" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="180a733a-0230-40fe-8aca-b836859f8428" name="Default Changelist" comment="" />
+      <created>1624356640718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624356640718</updated>
+    </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1624356728040</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624356728040</updated>
+    </task>
+    <task id="LOCAL-00002" summary=".">
+      <created>1624616362011</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624616362011</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added effects and some fix">
+      <created>1625124752410</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1625124752410</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added effects and some fix">
+      <created>1625202804238</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1625202804238</updated>
+    </task>
+    <task id="LOCAL-00005" summary="minor bugs">
+      <created>1625204741411</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1625204741411</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <MESSAGE value="added effects and some fix" />
+    <MESSAGE value="minor bugs" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor bugs" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="343" y="0" key="CommitChangelistDialog2" timestamp="1625228935670">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="343" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1625228935670" />
+    <state x="150" y="64" width="1228" height="688" key="DiffContextDialog" timestamp="1625229732452">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="150" y="64" width="1228" height="688" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1625229732452" />
+    <state x="9" y="170" key="FileChooserDialogImpl" timestamp="1625229497849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="9" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1625229497849" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1625124130083">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1625124130083" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1625228939537">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1625228939537" />
+    <state x="342" y="95" key="new project wizard" timestamp="1624385005118">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="342" y="95" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1624385005118" />
+  </component>
+</project>
